@@ -1,2 +1,6 @@
 # Sobre-mim
-👋 Hi, I’m Anderson Faé👀 I’m interested in Full-Stack Development. 🌱 I’m currently studying Software Engineering. 💞️ I’m looking to collaborate on open source project and learn more dev frameworks. 📫 You can find me on Linkedin /andersonfae or drop me a line andersonfae.owl[at]gmail.com.
+👋 Olá, me chamo Kleber Duarte
+👀 Interessado em Desenvolvimento Full-Stack.
+🌱 Buscando uma oportunidade como desenvolvedor Sênior.
+💞️ Busco colaborar em projetos de código, frameworks de desenvolvimento e trabalho em equipe.
+📫 Você pode entrar em contato comigo através do Linkedin: https://www.linkedin.com/in/kleber-filho-781065186/
